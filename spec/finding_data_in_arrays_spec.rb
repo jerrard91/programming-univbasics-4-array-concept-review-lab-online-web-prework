@@ -9,7 +9,7 @@ describe 'Finding data' do
   valley = [5,4,3,2,1,0,1,2,3,4,5]
   zig_zag = [500,4,1000,5,250]
 
-  describe 'find_element_index(array, value_to_find)' do
+  describe 'find_element_index(arrhttps://learn.co/tracks/fswd-prework-2-01/fswd-prework-2-01-fswd-prework/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-4-collection-data-types-array-and-hash/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-4-collection-data-types-array-and-hash-array-concept-review-lab#ay, value_to_find)' do
     it 'takes in an array and a value and returns the index of that value' do
       expect(find_element_index(scale,2)).to eq(0)
       expect(find_element_index(scale,4)).to eq(2)
