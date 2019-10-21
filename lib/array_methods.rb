@@ -5,7 +5,7 @@ end
 
 def find_max_value(array)
 numbers = (1,2,3,4,5,)
-puts 
+returns numbers.max(list)
 end
 
 def find_min_value(array)
